@@ -32,7 +32,7 @@
   "license": "BSD-2-Clause",
   "homepage": "https://key4hep.github.io/eede/",
   "dependencies": {
-    "js-yaml": "^4.1.0"
+    "js-yaml": "^5.4.1"
   },
   "overrides": {
     "minimatch": "^10.2.6"
